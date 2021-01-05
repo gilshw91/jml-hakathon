@@ -1,0 +1,15 @@
+.content {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 50px;
+}
+
+.btn-primary {
+  margin-left: 25%;
+  margin-top: 50px;
+  color: rgb(54, 53, 53) !important;
+  background-color: rgba(245, 91, 137, 0.733) !important;
+  border-color: rgba(245, 91, 137, 0.733) !important;
+  border-radius: 30px !important;
+  padding: 4px;
+}
